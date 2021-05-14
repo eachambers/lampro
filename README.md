@@ -1,4 +1,4 @@
-# Lampro
+# Lampropeltis re-analysis
 
 Reanalysis of species boundaries in *Lampropeltis triangulum*; [Chambers & Hillis 2020](https://academic.oup.com/sysbio/article-abstract/69/1/184/5513370).
 
